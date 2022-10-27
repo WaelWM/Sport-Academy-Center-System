@@ -1,0 +1,10 @@
+S001	Swimming
+S002	Badminton
+S003	Football
+S004	Archery
+S005	Gymnastics
+S006	Volleyball
+S007	Basketball
+S008	Cricket
+S009	Tennis
+S010	Table Tennis

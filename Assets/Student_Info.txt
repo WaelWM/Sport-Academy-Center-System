@@ -1,0 +1,5 @@
+ST001	Khlid	Johor	Swimming	155886455	Johor	11/12/2000
+ST002	Mohammed	KL	Badminton	12598475	KL	11/10/1999
+ST003	Fatima	Johor	Volleyball	125589748	Johor	20/2/2001
+ST004	Ali	Selangor	Tennis	123467898	KL-24th-Street	12/9/2005
+ST005	Maike	Johor	Basketball	25468115	Johor-condo-main-street	12/3/2000

@@ -1,0 +1,8 @@
+
+Monday	12:00 - 1:00
+Tuesday	1:00 - 2:00
+Wednesday 11:00 - 12:00
+Thursday 12:00 - 2:00
+Friday	12:00 - 1:30
+
+Monday	12:00 - 2:00
