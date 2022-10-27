@@ -1,5 +1,3 @@
-# TP061828
-# Wael Mohammed Abdullah Al-Harazi
 
 def admin_registration_function():  # creating function
 
